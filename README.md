@@ -22,7 +22,7 @@ Passionate about solving technical challenges and designing intuitive experience
   - 🎨 **Figma** (Advanced Prototyping)  
   - 🖌 **Adobe Suite** (Photoshop, Illustrator)  
 - **APIs:**  
-  - 🔌 **RESTful API Consumption** (Google Maps, internal services)  
+  - 🔌 **RESTful API Consumption** (Google Drive, internal services)  
   - 🛠 **Postman**  
 - **Tools:**  
   - 🔧 **Git** (Bitbucket)  
@@ -36,7 +36,7 @@ Passionate about solving technical challenges and designing intuitive experience
 - **FusionOS SaaS Application:**  
   - Developed interfaces with Chakra UI, integrating dynamic form logic and API connections.  
 - **XCONS Management System:**  
-  - Designed and built reusable components in Figma, implemented in React with Chakra UI to ensure visual consistency.
+  - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.
 
 ---
 
@@ -49,7 +49,6 @@ Passionate about solving technical challenges and designing intuitive experience
 🎨 **Extras:**  
 - Video Editing  
 - WordPress (Theme Development)  
-- Task Automation with Python
 
 ---
 
@@ -66,7 +65,9 @@ Passionate about solving technical challenges and designing intuitive experience
 ### 🛠 &nbsp;Tech Stack
 Vercel-000000
 TypeScript-007ACC
-Figma-F24E1E
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=javascript)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
