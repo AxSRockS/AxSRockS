@@ -63,8 +63,6 @@ Passionate about solving technical challenges and designing intuitive experience
 
 
 ### 🛠 &nbsp;Tech Stack
-Vercel-000000
-TypeScript-007ACC
 
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
