@@ -45,6 +45,7 @@ Passionate about solving technical challenges and designing intuitive experience
   </tr>
 </table>
 
+
 ### 🛠 Highlighted Projects
 <table>
 <tr>
@@ -88,7 +89,6 @@ Passionate about solving technical challenges and designing intuitive experience
 </table>                                                                                 
 </div>
 <br>
-
 
 
 ### 🤝 Soft Skills 
