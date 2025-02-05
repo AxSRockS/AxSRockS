@@ -28,7 +28,7 @@ Passionate about solving technical challenges and designing intuitive experience
     <td valign="top">
        <b>Design</b><br>
       • Figma (Advanced Prototyping)  <br>
-     • Adobe Suite (Photoshop, Illustrator)<br>
+     • Adobe Suite (Photoshop,<br> Illustrator)<br>
     </td>
     <td valign="top">
        <b>APIs</b> <br>
