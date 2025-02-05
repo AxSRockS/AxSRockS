@@ -72,8 +72,7 @@ Passionate about solving technical challenges and designing intuitive experience
 <br>
 <p>
 
-<a href="<a href="https://backoffice.fusionos.ai/home" target="_blank">
-" target="_blank">
+<a href="https://backoffice.fusionos.ai/home" target="_blank">
     <img src="https://img.shields.io/badge/Visit_site-blue">
 </a>
 </p>
