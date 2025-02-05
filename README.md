@@ -12,24 +12,24 @@ Passionate about solving technical challenges and designing intuitive experience
 <table>
   <tr>
     <td valign="top">
-      **Frontend**  
+      <b>Frontend</b>
       ⚛️ **React** (Hooks, Context API)  
       🔷 **TypeScript**  
       🎨 **Chakra UI**  
       🖥 **HTML5/CSS3**
     </td>
     <td valign="top">
-      **Design**  
+       <b>Design</b>
       🎨 **Figma** (Advanced Prototyping)  
       🖌 **Adobe Suite** (Photoshop, Illustrator)
     </td>
     <td valign="top">
-      **APIs**  
+       <b>APIs</b> 
       🔌 **RESTful API Consumption** (Google Maps, internal services)  
       🛠 **Postman**
     </td>
     <td valign="top">
-      **Tools**  
+       <b>Tools</b>
       🔧 **Git** (Bitbucket)  
       📋 **Jira/Trello**  
       💻 **VS Code**  
@@ -91,6 +91,7 @@ Passionate about solving technical challenges and designing intuitive experience
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-💬 Feel free to reach out for consulting or discussions on these topics!  
+💬 Feel free to reach out for consulting or discussions on these topics!
+
 <a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
