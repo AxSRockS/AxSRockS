@@ -49,7 +49,6 @@ Passionate about solving technical challenges and designing intuitive experience
 ### 🛠 Highlighted Projects
 <table>
 <tr>
-
 <td width="50%">
 <h3 align="center">XCONS Ecommerce</h3>
 <div align="center">
@@ -60,10 +59,8 @@ Passionate about solving technical challenges and designing intuitive experience
 </a>
 </p>
 <p>Created, validated, and implemented reusable design components in Figma, incorporating UX best practices to ensure visual consistency across static pages and the e-commerce platform.</p>
-</div>
-                                                                                     
+</div>                                                                                
 </td>
-
 <td width="50%">
 <h3 align="center">FusionOS SaaS Application</h3>
 <div align="center">                                       
@@ -83,7 +80,6 @@ Passionate about solving technical challenges and designing intuitive experience
 </table>                                                                                 
 </div>
 <br>
-
 
 ### 🤝 Soft Skills 
 • **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
