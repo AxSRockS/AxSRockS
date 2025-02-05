@@ -45,8 +45,6 @@ Passionate about solving technical challenges and designing intuitive experience
   </tr>
 </table>
 
----
-
 ### 🛠 Highlighted Projects
 
 FusionOS SaaS Application:  <br>
@@ -59,8 +57,6 @@ XCONS Management System:<br>
 | 🌱 Focus | 🎨 Extras |
 | -------- | -------- |
 | - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
-
----
 
 🤝 **Soft Skills:**  
 • **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
