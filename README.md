@@ -37,7 +37,7 @@ Passionate about solving technical challenges and designing intuitive experience
     </td>
     <td valign="top">
        <b>Tools</b><br>
-     • Git** (Bitbucket)  <br>
+     • Git (Bitbucket)  <br>
       • Jira/Trello  <br>
      • VS Code <br>
      • QA Manual<br>
