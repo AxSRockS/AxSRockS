@@ -75,7 +75,7 @@ Passionate about solving technical challenges and designing intuitive experience
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://higen.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+    <img src="https://img.shields.io/badge/Visit_site-blue">
 </a>
 </p>
 <p>Developed interfaces with Chakra UI, integrating dynamic form logic, AI functionalities and API connections. </strong>  </p>
