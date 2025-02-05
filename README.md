@@ -12,24 +12,24 @@ Passionate about solving technical challenges and designing intuitive experience
 <table>
   <tr>
     <td valign="top">
-      <b>Frontend</b>
+      <b>Frontend</b><br>
       ⚛️ **React** (Hooks, Context API)  
       🔷 **TypeScript**  
       🎨 **Chakra UI**  
       🖥 **HTML5/CSS3**
     </td>
     <td valign="top">
-       <b>Design</b>
+       <b>Design</b><br>
       🎨 **Figma** (Advanced Prototyping)  
       🖌 **Adobe Suite** (Photoshop, Illustrator)
     </td>
     <td valign="top">
-       <b>APIs</b> 
+       <b>APIs</b> <br>
       🔌 **RESTful API Consumption** (Google Maps, internal services)  
       🛠 **Postman**
     </td>
     <td valign="top">
-       <b>Tools</b>
+       <b>Tools</b><br>
       🔧 **Git** (Bitbucket)  
       📋 **Jira/Trello**  
       💻 **VS Code**  
