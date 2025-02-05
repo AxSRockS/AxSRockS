@@ -5,7 +5,7 @@ Passionate about solving technical challenges and designing intuitive experience
 
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
