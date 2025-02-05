@@ -1,5 +1,3 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
-
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
@@ -10,7 +8,7 @@
 
 🚀 **Alexis Leonel Vedia**  
 **Frontend Developer & UX/UI Designer** | React + TypeScript Specialist  
-Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products.
+Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products. I also have a strong aptitude for logic and error solving.
 
 ---
 
