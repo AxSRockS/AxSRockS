@@ -53,7 +53,7 @@ Passionate about solving technical challenges and designing intuitive experience
 <td width="50%">
 <h3 align="center">XCONS Ecommerce</h3>
 <div align="center">
-<img src="https://i.imgur.com/J85WXCD.png" width="400" alt="Pocketpenny img"></a>
+<a href="https://www.xcons.com.ar" target="_blank"><img src="https://github.com/AxSRockS/AxSRockS/blob/main/Captura%20de%20pantalla%20(114).png" width="400" alt="XCONS"></a>
 <p>
 <a href="https://www.xcons.com.ar" target="_blank">
     <img src="https://img.shields.io/badge/Visit_site-blue">
