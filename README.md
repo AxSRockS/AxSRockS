@@ -53,12 +53,9 @@ Passionate about solving technical challenges and designing intuitive experience
 <td width="50%">
 <h3 align="center">XCONS Ecommerce</h3>
 <div align="center">
-<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank"></a>
+<img src="https://i.imgur.com/J85WXCD.png" width="400" alt="Pocketpenny img"></a>
 <p>
-<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://pocketpenny.onrender.com/" target="_blank">
+<a href="https://backoffice.fusionos.ai/home" target="_blank">
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
