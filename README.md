@@ -1,4 +1,4 @@
- **Alexis Leonel Vedia**
+ **Alexis Vedia**
  ---
 **Frontend Developer & UX/UI Designer | React + TypeScript Specialist  
 Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products. I also excel in logic and error solving.** <br>
