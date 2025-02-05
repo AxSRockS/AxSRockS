@@ -71,14 +71,6 @@ Passionate about solving technical challenges and designing intuitive experience
 
 ---
 
-### 🤝 Soft Skills
-- **Startup Experience:** Worked in 2 startups, adapting quickly to change.
-- **Fast Learner:** Quick to grasp new technologies.
-- **Excellent Communicator:** Great team player; well-liked by colleagues.
-- **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros.
-
----
-
 🤝 **Soft Skills:**  
 - **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
 - **Fast Learner:** Quick to grasp new technologies.  
