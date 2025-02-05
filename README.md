@@ -66,7 +66,7 @@ Passionate about solving technical challenges and designing intuitive experience
 Vercel-000000
 TypeScript-007ACC
 
-https://img.shields.io/npm/v/npm.svg?logo=#F24E1E
+![Figma](https://img.shields.io/badge/logo-figma-blue?logo=figma)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
