@@ -63,7 +63,7 @@ Passionate about solving technical challenges and designing intuitive experience
 </div>
                                                                                      
 </td>
-<tr>
+
 <td width="50%">
 <h3 align="center">FusionOS SaaS Application</h3>
 <div align="center">                                       
