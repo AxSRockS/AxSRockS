@@ -58,7 +58,7 @@ XCONS Management System:<br>
 | -------- | -------- |
 | - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
 
-🤝 **Soft Skills:**  
+### 🤝 Soft Skills 
 • **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
 • **Fast Learner:** Quick to grasp new technologies.  
 • **Excellent Communicator:** Great team player; well-liked by colleagues.  
