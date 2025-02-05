@@ -90,15 +90,16 @@ Passionate about solving technical challenges and designing intuitive experience
 <br>
 
 
-|  Focus |  Extras |
-| -------- | -------- |
-| - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
 
 ### 🤝 Soft Skills 
 • **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
 • **Fast Learner:** Quick to grasp new technologies.  
 • **Excellent Communicator:** Great team player; well-liked by colleagues.  
 • **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros. <br>
+
+|  Focus |  Extras |
+| -------- | -------- |
+| - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
 ✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; I'll try to respond as soon as possible!<br>
