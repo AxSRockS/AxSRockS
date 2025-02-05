@@ -13,27 +13,27 @@ Passionate about solving technical challenges and designing intuitive experience
   <tr>
     <td valign="top">
       <b>Frontend</b><br>
-      ⚛️ **React** (Hooks, Context API)  
-      🔷 **TypeScript**  
-      🎨 **Chakra UI**  
-      🖥 **HTML5/CSS3**
+      ⚛️ **React** (Hooks, Context API)  <br>
+      🔷 **TypeScript** <br> 
+      🎨 **Chakra UI**  <br>
+      🖥 **HTML5/CSS3**<br>
     </td>
     <td valign="top">
        <b>Design</b><br>
-      🎨 **Figma** (Advanced Prototyping)  
-      🖌 **Adobe Suite** (Photoshop, Illustrator)
+      🎨 **Figma** (Advanced Prototyping)  <br>
+      🖌 **Adobe Suite** (Photoshop, Illustrator)<br>
     </td>
     <td valign="top">
        <b>APIs</b> <br>
-      🔌 **RESTful API Consumption** (Google Maps, internal services)  
-      🛠 **Postman**
+      🔌 **RESTful API Consumption** (Google Maps, internal services)  <br>
+      🛠 **Postman**<br>
     </td>
     <td valign="top">
        <b>Tools</b><br>
-      🔧 **Git** (Bitbucket)  
-      📋 **Jira/Trello**  
-      💻 **VS Code**  
-      🕵️ **QA Manual**
+      🔧 **Git** (Bitbucket)  <br>
+      📋 **Jira/Trello**  <br>
+      💻 **VS Code**  <br>
+      🕵️ **QA Manual**<br>
     </td>
   </tr>
 </table>
