@@ -64,5 +64,5 @@ XCONS Management System:<br>
 • **Excellent Communicator:** Great team player; well-liked by colleagues.  
 • **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros. <br>
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;. I'll try to respond as soon as possible!\<br>
+✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;. I'll try to respond as soon as possible!<br>
 📄 &nbsp;You can check my <a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; for more details about work experience.
