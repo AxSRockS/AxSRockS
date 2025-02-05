@@ -14,7 +14,7 @@ Passionate about solving technical challenges and designing intuitive experience
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
- ---
+ --
 
 ### 💡 Key Technologies
 
