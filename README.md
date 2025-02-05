@@ -12,6 +12,7 @@ Passionate about solving technical challenges and designing intuitive experience
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 ---
 
 ### 💡 Key Technologies
@@ -70,8 +71,3 @@ XCONS Management System:<br>
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my <a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; for more details about work experience.
-
-
-
-
-ok por ultimo puedes devolverme todo el codigo pero asegurandote que las tablas tenga cada celda el mismo tamaño?
