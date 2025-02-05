@@ -56,25 +56,9 @@ XCONS Management System:<br>
  - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.<br>
 ---
 
-<div style="display: flex; gap: 20px;">
-  <!-- Sección Focus -->
-  <div style="flex: 1;">
-    <h3>🌱 Focus</h3>
-    <ul>
-      <li>Integrating AI/ML solutions into the frontend</li>
-      <li>Mastering scalable architectures</li>
-    </ul>
-  </div>
-
-  <!-- Sección Extras -->
-  <div style="flex: 1;">
-    <h3>🎨 Extras</h3>
-    <ul>
-      <li>Video Editing</li>
-      <li>WordPress (Theme Development)</li>
-    </ul>
-  </div>
-</div>
+| 🌱 Focus | 🎨 Extras |
+| -------- | -------- |
+| - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
 
 ---
 
