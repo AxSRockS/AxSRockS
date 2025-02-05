@@ -32,8 +32,8 @@ Passionate about solving technical challenges and designing intuitive experience
     </td>
     <td valign="top">
        <b>APIs</b> <br>
-      • RESTful API Consumption (Google Maps, internal services)  <br>
-      • Postman**<br>
+      • RESTful API Consumption<br> (Google Maps, internal services)  <br>
+      • Postman<br>
     </td>
     <td valign="top">
        <b>Tools</b><br>
