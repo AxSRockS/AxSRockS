@@ -17,6 +17,7 @@ Passionate about solving technical challenges and designing intuitive experience
  ---
 
 ### 💡 Key Technologies
+ ---
 
 <table>
   <tr>
