@@ -62,7 +62,7 @@ Passionate about solving technical challenges and designing intuitive experience
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
-<p>Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.</p>
+<p>Created, validated, and implemented reusable design components in Figma, incorporating UX best practices to ensure visual consistency across static pages and the e-commerce platform.</p>
 </div>
                                                                                       
 </td>
@@ -81,7 +81,7 @@ Passionate about solving technical challenges and designing intuitive experience
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
-<p>Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. </strong>  </p>
+<p>Developed interfaces with Chakra UI, integrating dynamic form logic, AI functionalities and API connections. </strong>  </p>
 </div>    
 
 </td>
