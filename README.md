@@ -52,7 +52,7 @@ FusionOS SaaS Application:  <br>
  
 XCONS Management System:<br>
  - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.<br>
----
+
 
 | 🌱 Focus | 🎨 Extras |
 | -------- | -------- |
