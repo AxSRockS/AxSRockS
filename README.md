@@ -88,7 +88,8 @@ Passionate about solving technical challenges and designing intuitive experience
 
 |  Focus |  Extras |
 | -------- | -------- |
-| - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures | - Video Editing <br>- WordPress (Theme Development) |
+| - Integrating AI/ML solutions into the frontend <br>- Mastering scalable architectures <br> - Exploring AWS/Azure fundamentals   <br>
+-  CI/CD pipelines (theoretical knowledge)  <br> - Python scripts for task automation, ChatGPT API experiments | - Video Editing <br>- WordPress (Theme Development) |
 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
 ✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; I'll try to respond as soon as possible!<br>
