@@ -6,7 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-🚀 **Alexis Leonel Vedia**  
+🚀 **Alexis Leonel Vedia**   
 **Frontend Developer & UX/UI Designer** | React + TypeScript Specialist  
 Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products. I also have a strong aptitude for logic and error solving.
 
