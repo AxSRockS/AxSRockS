@@ -46,12 +46,48 @@ Passionate about solving technical challenges and designing intuitive experience
 </table>
 
 ### 🛠 Highlighted Projects
+<table>
+<tr>
 
-FusionOS SaaS Application:  <br>
- - Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. <br>
- 
-XCONS Management System:<br>
- - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.<br>
+<td width="50%">
+<h3 align="center">XCONS Ecommerce</h3>
+<div align="center">
+<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank"><img src="https://i.imgur.com/J85WXCD.png" width="400" alt="Pocketpenny img"></a>
+<p>
+<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://pocketpenny.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+</a>
+</p>
+<p>Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">FusionOS SaaS Application</h3>
+<div align="center">                                       
+<a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/WL6kNf4.png" width="400" alt="Higen img"></a>
+<br>
+<p>
+<a href="https://github.com/mateoivanovich22/higen" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://higen.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+</a>
+</p>
+<p>Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. </strong>  </p>
+</div>    
+
+</td>
+
+</table>                                                                                 
+</div>
+<br>
 
 
 |  Focus |  Extras |
