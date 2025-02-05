@@ -57,23 +57,23 @@ XCONS Management System:<br>
 ---
 
 <div style="display: flex; gap: 20px;">
+  <!-- Sección Focus -->
+  <div style="flex: 1;">
+    <h3>🌱 Focus</h3>
+    <ul>
+      <li>Integrating AI/ML solutions into the frontend</li>
+      <li>Mastering scalable architectures</li>
+    </ul>
+  </div>
 
-<div style="flex: 1;">
-  
-### 🌱 Focus
-• Integrating AI/ML solutions into the frontend  
-• Mastering scalable architectures
-
-</div>
-
-<div style="flex: 1;">
-  
-### 🎨 Extras
-• Video Editing  
-• WordPress (Theme Development)  
-
-</div>
-
+  <!-- Sección Extras -->
+  <div style="flex: 1;">
+    <h3>🎨 Extras</h3>
+    <ul>
+      <li>Video Editing</li>
+      <li>WordPress (Theme Development)</li>
+    </ul>
+  </div>
 </div>
 
 ---
@@ -83,13 +83,9 @@ XCONS Management System:<br>
 • **Fast Learner:** Quick to grasp new technologies.  
 • **Excellent Communicator:** Great team player; well-liked by colleagues.  
 • **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros.
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my <a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; for more details about work experience.
 
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="vertical-align: middle;"/>
-</a> &nbsp;. I'll try to respond as soon as possible!<br>
-📄 &nbsp;You can check my <a href="https://www.linkedin.com/in/alexis-vedia-80b936190">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" style="vertical-align: middle;"/>
-</a> &nbsp; for more details about work experience.
 
 
