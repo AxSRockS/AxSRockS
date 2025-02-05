@@ -43,7 +43,7 @@ Passionate about solving technical challenges and designing intuitive experience
 ### 🛠 Highlighted Projects
 
 • FusionOS SaaS Application:  <br>
-  Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. <br>
+ - Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. <br>
 • XCONS Management System:<br>
  - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.<br>
 ---
