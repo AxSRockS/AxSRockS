@@ -55,8 +55,8 @@ Passionate about solving technical challenges and designing intuitive experience
 <div align="center">
 <img src="https://i.imgur.com/J85WXCD.png" width="400" alt="Pocketpenny img"></a>
 <p>
-<a href="https://backoffice.fusionos.ai/home" target="_blank">
-    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+<a href="https://www.xcons.com.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_site-blue">
 </a>
 </p>
 <p>Created, validated, and implemented reusable design components in Figma, incorporating UX best practices to ensure visual consistency across static pages and the e-commerce platform.</p>
@@ -71,10 +71,9 @@ Passionate about solving technical challenges and designing intuitive experience
 <a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/WL6kNf4.png" width="400" alt="Higen img"></a>
 <br>
 <p>
-<a href="https://github.com/mateoivanovich22/higen" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://higen.onrender.com" target="_blank">
+
+<a href="<a href="https://backoffice.fusionos.ai/home" target="_blank">
+" target="_blank">
     <img src="https://img.shields.io/badge/Visit_site-blue">
 </a>
 </p>
