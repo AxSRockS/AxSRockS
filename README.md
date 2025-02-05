@@ -1,6 +1,17 @@
 ![version :10.07.2024](https://img.shields.io/badge/version-02.04.2025-informational) &nbsp;
 ![profile count](https://img.shields.io/badge/Profile_views-132-red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ###  Alexis Leonel Vedia  
 **Frontend Developer & UX/UI Designer** | React + TypeScript Specialist  
 Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products. I also excel in logic and error solving.
@@ -77,21 +88,7 @@ XCONS Management System:<br>
 • **Excellent Communicator:** Great team player; well-liked by colleagues.  
 • **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros.
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at axsrocks@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/alexis-vedia-80b936190) for more details about work experience.
-### 🛠 &nbsp;Tech Stack
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+✉️ &nbsp;You can email me at <a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my <a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; for more details about work experience.
 
-💬 Feel free to reach out for consulting or discussions on these topics!
 
-<a href="https://www.linkedin.com/in/alexis-vedia-80b936190"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:axsrocks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
