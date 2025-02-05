@@ -61,11 +61,9 @@ Passionate about solving technical challenges and designing intuitive experience
 </p>
 <p>Created, validated, and implemented reusable design components in Figma, incorporating UX best practices to ensure visual consistency across static pages and the e-commerce platform.</p>
 </div>
-                                                                                      
+                                                                                     
 </td>
-
 <td width="50%">
-               <br>
 <h3 align="center">FusionOS SaaS Application</h3>
 <div align="center">                                       
 <a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/WL6kNf4.png" width="400" alt="Higen img"></a>
