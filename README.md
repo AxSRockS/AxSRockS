@@ -72,14 +72,13 @@ Passionate about solving technical challenges and designing intuitive experience
     <img src="https://img.shields.io/badge/Visit_site-blue">
 </a>
 </p>
-<p>Developed interfaces with Chakra UI, integrating dynamic form logic, AI functionalities and API connections. </strong>  </p>
+<p>Developed interfaces with Chakra UI, integrating dynamic form logic, AI functionalities and API connections. </strong>  </p><br><br>
 </div>    
 
 </td>
 
 </table>                                                                                 
 </div>
-<br>
 
 ### 🤝 Soft Skills 
 • **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
