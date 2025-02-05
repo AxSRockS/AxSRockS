@@ -1,7 +1,3 @@
-![version :10.07.2024](https://img.shields.io/badge/version-02.04.2025-informational) &nbsp;
-![profile count](https://img.shields.io/badge/Profile_views-132-red)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
