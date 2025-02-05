@@ -13,27 +13,27 @@ Passionate about solving technical challenges and designing intuitive experience
   <tr>
     <td valign="top">
       <b>Frontend</b><br>
-      ⚛️ **React** (Hooks, Context API)  <br>
-      🔷 **TypeScript** <br> 
-      🎨 **Chakra UI**  <br>
-      🖥 **HTML5/CSS3**<br>
+     • React (Hooks, Context API)  <br>
+      • TypeScript <br> 
+      • Chakra UI  <br>
+      • HTML5/CSS3<br>
     </td>
     <td valign="top">
        <b>Design</b><br>
-      🎨 **Figma** (Advanced Prototyping)  <br>
-      🖌 **Adobe Suite** (Photoshop, Illustrator)<br>
+      • Figma (Advanced Prototyping)  <br>
+     • Adobe Suite (Photoshop, Illustrator)<br>
     </td>
     <td valign="top">
        <b>APIs</b> <br>
-      🔌 **RESTful API Consumption** (Google Maps, internal services)  <br>
-      🛠 **Postman**<br>
+      • RESTful API Consumption (Google Maps, internal services)  <br>
+      • Postman**<br>
     </td>
     <td valign="top">
        <b>Tools</b><br>
-      🔧 **Git** (Bitbucket)  <br>
-      📋 **Jira/Trello**  <br>
-      💻 **VS Code**  <br>
-      🕵️ **QA Manual**<br>
+     • Git** (Bitbucket)  <br>
+      • Jira/Trello  <br>
+     • VS Code <br>
+     • QA Manual<br>
     </td>
   </tr>
 </table>
@@ -42,9 +42,9 @@ Passionate about solving technical challenges and designing intuitive experience
 
 ### 🛠 Highlighted Projects
 
-- **FusionOS SaaS Application:**  
+• FusionOS SaaS Application:  
   Developed interfaces with Chakra UI, integrating dynamic form logic and API connections.
-- **XCONS Management System:**  
+• XCONS Management System:
  - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.
 ---
 
@@ -53,17 +53,16 @@ Passionate about solving technical challenges and designing intuitive experience
 <div style="flex: 1;">
   
 ### 🌱 Focus
-- Integrating AI/ML solutions into the frontend  
-- Mastering scalable architectures
+• Integrating AI/ML solutions into the frontend  
+• Mastering scalable architectures
 
 </div>
 
 <div style="flex: 1;">
   
 ### 🎨 Extras
-- Video Editing  
-- WordPress (Theme Development)  
-- Task Automation with Python
+• Video Editing  
+• WordPress (Theme Development)  
 
 </div>
 
@@ -72,10 +71,10 @@ Passionate about solving technical challenges and designing intuitive experience
 ---
 
 🤝 **Soft Skills:**  
-- **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
-- **Fast Learner:** Quick to grasp new technologies.  
-- **Excellent Communicator:** Great team player; well-liked by colleagues.  
-- **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros.
+• **Startup Experience:** Worked in 2 startups, adapting quickly to change.  
+• **Fast Learner:** Quick to grasp new technologies.  
+• **Excellent Communicator:** Great team player; well-liked by colleagues.  
+• **Agile Methodologies:** Experienced in dailies, demos, plannings, and retros.
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at axsrocks@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/alexis-vedia-80b936190) for more details about work experience.
