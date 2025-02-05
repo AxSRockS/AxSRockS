@@ -1,7 +1,7 @@
 ![version :10.07.2024](https://img.shields.io/badge/version-02.04.2025-informational) &nbsp;
 ![profile count](https://img.shields.io/badge/Profile_views-132-red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 🚀 Alexis Leonel Vedia  
+###  Alexis Leonel Vedia  
 **Frontend Developer & UX/UI Designer** | React + TypeScript Specialist  
 Passionate about solving technical challenges and designing intuitive experiences. I combine design expertise with clean code to build scalable, user-centered products. I also excel in logic and error solving.
 
@@ -42,10 +42,10 @@ Passionate about solving technical challenges and designing intuitive experience
 
 ### 🛠 Highlighted Projects
 
-• FusionOS SaaS Application:  
-  Developed interfaces with Chakra UI, integrating dynamic form logic and API connections.
-• XCONS Management System:
- - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.
+• FusionOS SaaS Application:  <br>
+  Developed interfaces with Chakra UI, integrating dynamic form logic and API connections. <br>
+• XCONS Management System:<br>
+ - Designed and built reusable components in Figma, implemented to ensure visual consistency on static pages and e-commerce platform.<br>
 ---
 
 <div style="display: flex; gap: 20px;">
